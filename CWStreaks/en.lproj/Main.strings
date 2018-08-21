@@ -1,0 +1,612 @@
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "0Og-vW-hcb"; */
+"0Og-vW-hcb.text" = "Clssic High Score";
+
+/* Class = "UIButton"; normalTitle = "Results"; ObjectID = "0Vv-vC-Taz"; */
+"0Vv-vC-Taz.normalTitle" = "Results";
+
+/* Class = "UIButton"; normalTitle = "CLASSIC"; ObjectID = "0xU-x3-ooF"; */
+"0xU-x3-ooF.normalTitle" = "CLASSIC";
+
+/* Class = "UILabel"; text = "Rematch Request Sent"; ObjectID = "1wJ-kV-yhq"; */
+"1wJ-kV-yhq.text" = "Rematch Request Sent";
+
+/* Class = "UILabel"; text = "Your Score"; ObjectID = "2Io-tD-Bh0"; */
+"2Io-tD-Bh0.text" = "Your Score";
+
+/* Class = "UILabel"; text = "All time score"; ObjectID = "2ee-jb-fly"; */
+"2ee-jb-fly.text" = "All time score";
+
+/* Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "2ix-Hd-zRI"; */
+"2ix-Hd-zRI.headerTitle" = "General";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "2pz-b9-RUK"; */
+"2pz-b9-RUK.text" = "Clssic High Score";
+
+/* Class = "UILabel"; text = "Game Over"; ObjectID = "2tT-s6-Og5"; */
+"2tT-s6-Og5.text" = "Game Over";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "33m-ev-8gt"; */
+"33m-ev-8gt.text" = "100";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "3Dg-3Q-4cA"; */
+"3Dg-3Q-4cA.text" = "100";
+
+/* Class = "UILabel"; text = "56"; ObjectID = "3GW-Tc-aOe"; */
+"3GW-Tc-aOe.text" = "56";
+
+/* Class = "UILabel"; text = "Terms "; ObjectID = "3O8-Yl-o7H"; */
+"3O8-Yl-o7H.text" = "Terms ";
+
+/* Class = "UILabel"; text = "Enable Game SFX"; ObjectID = "3Qz-gU-8Y8"; */
+"3Qz-gU-8Y8.text" = "Enable Game SFX";
+
+/* Class = "UILabel"; text = "Best Regular Odds"; ObjectID = "3xS-jq-fSn"; */
+"3xS-jq-fSn.text" = "Best Regular Odds";
+
+/* Class = "UILabel"; text = "Silencia"; ObjectID = "3xp-Dt-Lf8"; */
+"3xp-Dt-Lf8.text" = "Silencia";
+
+/* Class = "UIButton"; normalTitle = "Classic"; ObjectID = "4Jf-vo-jdf"; */
+"4Jf-vo-jdf.normalTitle" = "Classic";
+
+/* Class = "UILabel"; text = "Games Played"; ObjectID = "4mM-7U-eqR"; */
+"4mM-7U-eqR.text" = "Games Played";
+
+/* Class = "UILabel"; text = "Sync Scores"; ObjectID = "571-Sf-W4l"; */
+"571-Sf-W4l.text" = "Sync Scores";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "5SA-M9-OWQ"; */
+"5SA-M9-OWQ.text" = "Clssic High Score";
+
+/* Class = "UILabel"; text = "Game 7"; ObjectID = "5bM-39-20B"; */
+"5bM-39-20B.text" = "Game 7";
+
+/* Class = "UILabel"; text = "Game Win Points"; ObjectID = "5vU-5R-sT7"; */
+"5vU-5R-sT7.text" = "Game Win Points";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "5xk-L5-gJP"; */
+"5xk-L5-gJP.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Game 1"; ObjectID = "64o-Z2-5vD"; */
+"64o-Z2-5vD.text" = "Game 1";
+
+/* Class = "UISegmentedControl"; 67B-wK-w6A.segmentTitles[0] = "Regular"; ObjectID = "67B-wK-w6A"; */
+"67B-wK-w6A.segmentTitles[0]" = "Regular";
+
+/* Class = "UISegmentedControl"; 67B-wK-w6A.segmentTitles[1] = "Classic"; ObjectID = "67B-wK-w6A"; */
+"67B-wK-w6A.segmentTitles[1]" = "Classic";
+
+/* Class = "UISegmentedControl"; 67B-wK-w6A.segmentTitles[2] = "All Time"; ObjectID = "67B-wK-w6A"; */
+"67B-wK-w6A.segmentTitles[2]" = "All Time";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "6hT-j4-JEB"; */
+"6hT-j4-JEB.text" = "Username";
+
+/* Class = "UILabel"; text = "Open Source Libraries"; ObjectID = "7RZ-Ag-ZfL"; */
+"7RZ-Ag-ZfL.text" = "Open Source Libraries";
+
+/* Class = "UILabel"; text = "% OSE"; ObjectID = "7dc-h8-FuV"; */
+"7dc-h8-FuV.text" = "% OSE";
+
+/* Class = "UILabel"; text = "Streak"; ObjectID = "7zP-bb-4Wc"; */
+"7zP-bb-4Wc.text" = "Streak";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "8NH-oa-omd"; */
+"8NH-oa-omd.text" = "Version 1.0";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "8Y6-5l-SXK"; */
+"8Y6-5l-SXK.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Load More"; ObjectID = "8bP-yZ-ibQ"; */
+"8bP-yZ-ibQ.text" = "Load More";
+
+/* Class = "UILabel"; text = "High Streak"; ObjectID = "8e4-Ei-jXS"; */
+"8e4-Ei-jXS.text" = "High Streak";
+
+/* Class = "UILabel"; text = "Results"; ObjectID = "99h-IF-6kb"; */
+"99h-IF-6kb.text" = "Results";
+
+/* Class = "UINavigationItem"; title = "LEADERBOARD"; ObjectID = "9CU-6k-T5D"; */
+"9CU-6k-T5D.title" = "LEADERBOARD";
+
+/* Class = "UILabel"; text = "Game 4"; ObjectID = "9bS-Us-Imq"; */
+"9bS-Us-Imq.text" = "Game 4";
+
+/* Class = "UILabel"; text = "Streak"; ObjectID = "9w5-Fo-cJD"; */
+"9w5-Fo-cJD.text" = "Streak";
+
+/* Class = "UILabel"; text = "Best Classic Odds"; ObjectID = "AAs-0e-mdt"; */
+"AAs-0e-mdt.text" = "Best Classic Odds";
+
+/* Class = "UITextField"; text = "Sergei"; ObjectID = "AbW-Yl-4IF"; */
+"AbW-Yl-4IF.text" = "Sergei";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CGo-0N-hhO"; */
+"CGo-0N-hhO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Regular"; ObjectID = "CIU-3r-sIO"; */
+"CIU-3r-sIO.normalTitle" = "Regular";
+
+/* Class = "UILabel"; text = "STREAKER"; ObjectID = "CNp-1I-63a"; */
+"CNp-1I-63a.text" = "STREAKER";
+
+/* Class = "UIButton"; normalTitle = "Play Again"; ObjectID = "CZH-4G-uWl"; */
+"CZH-4G-uWl.normalTitle" = "Play Again";
+
+/* Class = "UINavigationItem"; title = "something"; ObjectID = "CdL-nX-wSd"; */
+"CdL-nX-wSd.title" = "something";
+
+/* Class = "UITextView"; text = "Streaker is a mobile application developed by Codesworth for iOS under the license name of Mensah Shadrach.                                    Codesworth is an interactive company for the mobile world. At Codesworth we design  applications with a broad appeal. which allow people to play for a moment.\nThis is the first released version of the application.\n \nTerms and Conditions\nThese terms create a legal agreement between you (“you” or “your”) and Codesworth Inc. You agree that by accessing our application, you are agreeing to these terms of use (“Terms of Use”). The service is owned and controlled by Codesworth. These Terms of use affect your legal rights and obligations. If you do not agree to be bound by all these terms of Use, do not access or use the service.\n1) You are responsible for the internet connection and/or mobile charges that you may incur for accessing our application.  You agree that you will not attempt to decompile, reverse engineer, disassemble or hack our application or to defeat or overcome any of our encryption technologies or security measures or data transmitted, processed or stored by us.\n2) We do not consider or accept unsolicited proposals or ideas, including, for example, ideas for new games, characters, game names, mechanics, technologies and promotions (“Unsolicited Proposals”). If despite this you send any Unsolicited Proposals to us, you acknowledge and agree that we are not required to keep them confidential and that we are permitted to use them for any purpose whatsoever without any liability or payment to you of any kind.\n3) You agree that you will not solicit, collect or use the login credentials of other streaker users.\n4) You are solely responsible for your conduct and any data, text, files, information, images, links and other content or materials (collectively “Content”) that you submit, post or display on or via the Service.\n5) You are responsible for keeping your password secret and secure.\n6) You must not use domain names or web URLs in your username without consent from Codesworth.\n7) You must not change, modify, adapt or alter the service or change, modify or alter another website so as to falsely imply that it is associated with the Service or Codesworth.\n8) You must not create accounts with the Service through unauthorized means, including but not limited to, by using an automated device, script, bot, spider, crawler or scraper.\n9) The Streaker name and logo are trademarks of Streaker and may not be copied, imitated or used in whole or in part, without the prior written permission of Streaker.\n10) Although it is Streaker’s intention for the Service to be available as much as possible, there will be occasions when the Service may be interrupted including, without limitation, for scheduled maintenance or upgrades, for emergency repairs, or due to failure of telecommunications links and/or equipment. Also Streaker reserves the right to remove any Content from the Service for any reason without prior notice.\n \nFair Use\nThis License is not intended to limit any rights you have under applicable copyright doctrines of fair use, fair dealing, or other equivalents.\nLimitation of Liability\nUnder no circumstance and under no legal theory, whether tort (including negligence), contract or otherwise, shall any Contributor, or anyone else who distributes Covered Software as permitted above, be liable for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure, or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages.\nLitigation \nAny litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by the laws of such jurisdiction, without reference to its conflict-of-law provisions. Nothing in this section shall prevent a party’s ability to bring cross-claims or counter-claims.\n \nDisclaimer of Warranty\nWe are providing STREAKER “as is”, without warranty of any kind, either expressed, implied or statutory, including without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-fringing. This disclaimer of warranty constitutes an essential part of this License. The Streaker parties do not represent or warrant that the service will be error-free or uninterrupted. No use of any Covered Software is authorized under this license except under this disclaimer.\nMiscellaneous\nThis License represents the complete agreement concerning the subject hereof. If any provision of this License is held to be unenforceable, such provision of this License shall be reformed only to the extent necessary to make it enforceable. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not be used to construe this License against a Contributor.\nVersions of this license\nNo one other than the License steward has the right to modify or publish new versions of this license. Each version will be given a distinguishing version number.\n \nThird Party\nWe may link to third party websites or services from our websites. You understand that we make no promises regarding any content, goods or services provided by such third parties and we do not endorse the same. We are also not responsible to you in relation to any losses or harm caused by such third parties. Any charges you incur in relation to those third parties are your responsibility. You understand that when you provide data to such third parties, you are providing it in accordance with their privacy policy (if any) and our own privacy policy does not apply in relation to that data.\n \nThese terms set out the entire agreement between you and us and they replace all earlier agreements and understandings between you and us.\nCopyright 2017 Codesworth. All rights reserved.\n "; ObjectID = "ClL-tg-66l"; */
+"ClL-tg-66l.text" = "Streaker is a mobile application developed by Codesworth for iOS under the license name of Mensah Shadrach.                                    Codesworth is an interactive company for the mobile world. At Codesworth we design  applications with a broad appeal. which allow people to play for a moment.\nThis is the first released version of the application.\n \nTerms and Conditions\nThese terms create a legal agreement between you (“you” or “your”) and Codesworth Inc. You agree that by accessing our application, you are agreeing to these terms of use (“Terms of Use”). The service is owned and controlled by Codesworth. These Terms of use affect your legal rights and obligations. If you do not agree to be bound by all these terms of Use, do not access or use the service.\n1) You are responsible for the internet connection and/or mobile charges that you may incur for accessing our application.  You agree that you will not attempt to decompile, reverse engineer, disassemble or hack our application or to defeat or overcome any of our encryption technologies or security measures or data transmitted, processed or stored by us.\n2) We do not consider or accept unsolicited proposals or ideas, including, for example, ideas for new games, characters, game names, mechanics, technologies and promotions (“Unsolicited Proposals”). If despite this you send any Unsolicited Proposals to us, you acknowledge and agree that we are not required to keep them confidential and that we are permitted to use them for any purpose whatsoever without any liability or payment to you of any kind.\n3) You agree that you will not solicit, collect or use the login credentials of other streaker users.\n4) You are solely responsible for your conduct and any data, text, files, information, images, links and other content or materials (collectively “Content”) that you submit, post or display on or via the Service.\n5) You are responsible for keeping your password secret and secure.\n6) You must not use domain names or web URLs in your username without consent from Codesworth.\n7) You must not change, modify, adapt or alter the service or change, modify or alter another website so as to falsely imply that it is associated with the Service or Codesworth.\n8) You must not create accounts with the Service through unauthorized means, including but not limited to, by using an automated device, script, bot, spider, crawler or scraper.\n9) The Streaker name and logo are trademarks of Streaker and may not be copied, imitated or used in whole or in part, without the prior written permission of Streaker.\n10) Although it is Streaker’s intention for the Service to be available as much as possible, there will be occasions when the Service may be interrupted including, without limitation, for scheduled maintenance or upgrades, for emergency repairs, or due to failure of telecommunications links and/or equipment. Also Streaker reserves the right to remove any Content from the Service for any reason without prior notice.\n \nFair Use\nThis License is not intended to limit any rights you have under applicable copyright doctrines of fair use, fair dealing, or other equivalents.\nLimitation of Liability\nUnder no circumstance and under no legal theory, whether tort (including negligence), contract or otherwise, shall any Contributor, or anyone else who distributes Covered Software as permitted above, be liable for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure, or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages.\nLitigation \nAny litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by the laws of such jurisdiction, without reference to its conflict-of-law provisions. Nothing in this section shall prevent a party’s ability to bring cross-claims or counter-claims.\n \nDisclaimer of Warranty\nWe are providing STREAKER “as is”, without warranty of any kind, either expressed, implied or statutory, including without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-fringing. This disclaimer of warranty constitutes an essential part of this License. The Streaker parties do not represent or warrant that the service will be error-free or uninterrupted. No use of any Covered Software is authorized under this license except under this disclaimer.\nMiscellaneous\nThis License represents the complete agreement concerning the subject hereof. If any provision of this License is held to be unenforceable, such provision of this License shall be reformed only to the extent necessary to make it enforceable. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not be used to construe this License against a Contributor.\nVersions of this license\nNo one other than the License steward has the right to modify or publish new versions of this license. Each version will be given a distinguishing version number.\n \nThird Party\nWe may link to third party websites or services from our websites. You understand that we make no promises regarding any content, goods or services provided by such third parties and we do not endorse the same. We are also not responsible to you in relation to any losses or harm caused by such third parties. Any charges you incur in relation to those third parties are your responsibility. You understand that when you provide data to such third parties, you are providing it in accordance with their privacy policy (if any) and our own privacy policy does not apply in relation to that data.\n \nThese terms set out the entire agreement between you and us and they replace all earlier agreements and understandings between you and us.\nCopyright 2017 Codesworth. All rights reserved.\n ";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "Cte-uc-Pzc"; */
+"Cte-uc-Pzc.normalTitle" = "Pause";
+
+/* Class = "UILabel"; text = "47.80%"; ObjectID = "D6t-Ir-CL9"; */
+"D6t-Ir-CL9.text" = "47.80%";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "DJA-0s-1y0"; */
+"DJA-0s-1y0.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Chat Background Image"; ObjectID = "DTf-UC-4DR"; */
+"DTf-UC-4DR.text" = "Chat Background Image";
+
+/* Class = "UILabel"; text = "STREAK"; ObjectID = "DXn-e6-reg"; */
+"DXn-e6-reg.text" = "STREAK";
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "Dgk-W6-Rlg"; */
+"Dgk-W6-Rlg.text" = "Player";
+
+/* Class = "UILabel"; text = "Points"; ObjectID = "EUv-XV-k4y"; */
+"EUv-XV-k4y.text" = "Points";
+
+/* Class = "UINavigationItem"; title = " Categories"; ObjectID = "EWj-oX-57I"; */
+"EWj-oX-57I.title" = " Categories";
+
+/* Class = "UILabel"; text = "Sweeps"; ObjectID = "Eht-ke-Z2v"; */
+"Eht-ke-Z2v.text" = "Sweeps";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ei7-ZT-vUV"; */
+"Ei7-ZT-vUV.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Account"; ObjectID = "Fxa-BH-0Xn"; */
+"Fxa-BH-0Xn.headerTitle" = "Account";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "G19-M3-alz"; */
+"G19-M3-alz.text" = "Clssic High Score";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "GT5-ab-D1G"; */
+"GT5-ab-D1G.text" = "4";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "GaQ-GE-uZX"; */
+"GaQ-GE-uZX.text" = "100";
+
+/* Class = "UITextField"; placeholder = "New Email"; ObjectID = "Gkj-rn-JNl"; */
+"Gkj-rn-JNl.placeholder" = "New Email";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Gxb-Va-a7z"; */
+"Gxb-Va-a7z.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Challenge Record"; ObjectID = "HN5-VF-5nY"; */
+"HN5-VF-5nY.text" = "Challenge Record";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "HXD-Fb-Fwn"; */
+"HXD-Fb-Fwn.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "IX3-cC-dQk"; */
+"IX3-cC-dQk.text" = "Log In";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Idq-Zu-YOq"; */
+"Idq-Zu-YOq.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Iig-lH-4VD"; */
+"Iig-lH-4VD.text" = "0";
+
+/* Class = "UILabel"; text = "STREAKER"; ObjectID = "Ikp-PW-iqf"; */
+"Ikp-PW-iqf.text" = "STREAKER";
+
+/* Class = "UILabel"; text = "Report A Problem"; ObjectID = "Isn-zp-DdF"; */
+"Isn-zp-DdF.text" = "Report A Problem";
+
+/* Class = "UILabel"; text = "Game Over"; ObjectID = "JGo-Db-XQL"; */
+"JGo-Db-XQL.text" = "Game Over";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JNr-49-ftj"; */
+"JNr-49-ftj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "High Score"; ObjectID = "JTe-TA-7xG"; */
+"JTe-TA-7xG.text" = "High Score";
+
+/* Class = "UITextField"; placeholder = "Enter E-mail"; ObjectID = "Jyw-zn-999"; */
+"Jyw-zn-999.placeholder" = "Enter E-mail";
+
+/* Class = "UIButton"; normalTitle = "Forgotten Password"; ObjectID = "KLZ-1S-RNZ"; */
+"KLZ-1S-RNZ.normalTitle" = "Forgotten Password";
+
+/* Class = "UILabel"; text = "22-56"; ObjectID = "KUb-Ku-Ny1"; */
+"KUb-Ku-Ny1.text" = "22-56";
+
+/* Class = "UILabel"; text = "Regular High score"; ObjectID = "KrT-ch-PM9"; */
+"KrT-ch-PM9.text" = "Regular High score";
+
+/* Class = "UILabel"; text = "Scores"; ObjectID = "L1I-i2-lPk"; */
+"L1I-i2-lPk.text" = "Scores";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "L9I-Su-vlO"; */
+"L9I-Su-vlO.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "LGv-hF-Kcd"; */
+"LGv-hF-Kcd.text" = "Score";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "M2y-Vm-KHy"; */
+"M2y-Vm-KHy.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "How To Play"; ObjectID = "MOd-ZR-amL"; */
+"MOd-ZR-amL.text" = "How To Play";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "May-Bz-0Yt"; */
+"May-Bz-0Yt.text" = "Score";
+
+/* Class = "UILabel"; text = "Avatars"; ObjectID = "MmG-ru-r2T"; */
+"MmG-ru-r2T.text" = "Avatars";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "N1j-Yc-FGg"; */
+"N1j-Yc-FGg.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "Highscores"; ObjectID = "NDg-IC-dg5"; */
+"NDg-IC-dg5.text" = "Highscores";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "NMb-Bv-2Wy"; */
+"NMb-Bv-2Wy.text" = "Settings";
+
+/* Class = "UILabel"; text = "Challenge Points"; ObjectID = "Nat-X7-uz4"; */
+"Nat-X7-uz4.text" = "Challenge Points";
+
+/* Class = "UILabel"; text = "High Score"; ObjectID = "Ndq-OG-fNu"; */
+"Ndq-OG-fNu.text" = "High Score";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "NgG-Dw-EE0"; */
+"NgG-Dw-EE0.text" = "11";
+
+/* Class = "UILabel"; text = "Have an Account Already? "; ObjectID = "O3t-kN-QlS"; */
+"O3t-kN-QlS.text" = "Have an Account Already? ";
+
+/* Class = "UILabel"; text = "37"; ObjectID = "Ouq-pi-Opi"; */
+"Ouq-pi-Opi.text" = "37";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "PEU-PQ-xrX"; */
+"PEU-PQ-xrX.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Regular"; ObjectID = "PKQ-2H-1kx"; */
+"PKQ-2H-1kx.normalTitle" = "Regular";
+
+/* Class = "UITextView"; text = "\nIn order to reach a growing audience of people  and increase the streaker user network tree as well as  minimize cost involved in keeping streaker service up and running, we engage in in-app advertisement. Funds generated from ads are used to sustain our servers as well as streaker."; ObjectID = "PWQ-cj-OHx"; */
+"PWQ-cj-OHx.text" = "\nIn order to reach a growing audience of people  and increase the streaker user network tree as well as  minimize cost involved in keeping streaker service up and running, we engage in in-app advertisement. Funds generated from ads are used to sustain our servers as well as streaker.";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "PhC-rx-0vW"; */
+"PhC-rx-0vW.text" = "Clssic High Score";
+
+/* Class = "UIButton"; normalTitle = "RECORD"; ObjectID = "Pnx-Pe-CyP"; */
+"Pnx-Pe-CyP.normalTitle" = "RECORD";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "QfR-MB-49N"; */
+"QfR-MB-49N.text" = "Score";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "QgX-cU-BGQ"; */
+"QgX-cU-BGQ.text" = "100";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "QoM-ds-qKn"; */
+"QoM-ds-qKn.title" = "Title";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "S6t-Fj-1aL"; */
+"S6t-Fj-1aL.text" = "Score";
+
+/* Class = "UILabel"; text = "Change Email"; ObjectID = "SBR-Co-Ted"; */
+"SBR-Co-Ted.text" = "Change Email";
+
+/* Class = "UILabel"; text = "Game 5"; ObjectID = "SC8-lD-1CB"; */
+"SC8-lD-1CB.text" = "Game 5";
+
+/* Class = "UILabel"; text = "STREAKER"; ObjectID = "SJv-Ky-WJV"; */
+"SJv-Ky-WJV.text" = "STREAKER";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "T5y-2o-xBy"; */
+"T5y-2o-xBy.normalTitle" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Classic"; ObjectID = "Tda-dh-5bB"; */
+"Tda-dh-5bB.normalTitle" = "Classic";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "Te4-VG-olv"; */
+"Te4-VG-olv.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "UIn-yd-t0O"; */
+"UIn-yd-t0O.text" = "Date";
+
+/* Class = "UILabel"; text = "Regular"; ObjectID = "UcG-7s-PUb"; */
+"UcG-7s-PUb.text" = "Regular";
+
+/* Class = "UISegmentedControl"; VX8-dO-mmp.segmentTitles[0] = "Top "; ObjectID = "VX8-dO-mmp"; */
+"VX8-dO-mmp.segmentTitles[0]" = "Top ";
+
+/* Class = "UISegmentedControl"; VX8-dO-mmp.segmentTitles[1] = "Nearby"; ObjectID = "VX8-dO-mmp"; */
+"VX8-dO-mmp.segmentTitles[1]" = "Nearby";
+
+/* Class = "UILabel"; text = "45"; ObjectID = "VYn-pL-GFi"; */
+"VYn-pL-GFi.text" = "45";
+
+/* Class = "UILabel"; text = "Longest Streak"; ObjectID = "Vic-sL-KEq"; */
+"Vic-sL-KEq.text" = "Longest Streak";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VnA-Cy-kL1"; */
+"VnA-Cy-kL1.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "Vow-SF-DuR"; */
+"Vow-SF-DuR.title" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Explore"; ObjectID = "Vra-9e-s9e"; */
+"Vra-9e-s9e.title" = "Explore";
+
+/* Class = "UILabel"; text = "Game 2"; ObjectID = "Wy0-90-R2X"; */
+"Wy0-90-R2X.text" = "Game 2";
+
+/* Class = "UILabel"; text = "Classic"; ObjectID = "Y8X-Q9-JOI"; */
+"Y8X-Q9-JOI.text" = "Classic";
+
+/* Class = "UILabel"; text = "Game 6"; ObjectID = "Y8n-08-3eM"; */
+"Y8n-08-3eM.text" = "Game 6";
+
+/* Class = "UIButton"; normalTitle = "Play Next Game"; ObjectID = "YG6-0D-rDh"; */
+"YG6-0D-rDh.normalTitle" = "Play Next Game";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "YGV-FL-FtD"; */
+"YGV-FL-FtD.text" = "0";
+
+/* Class = "UILabel"; text = "Series Win"; ObjectID = "Z7V-79-5bd"; */
+"Z7V-79-5bd.text" = "Series Win";
+
+/* Class = "UILabel"; text = "Auto Save Chat Media"; ObjectID = "Z8d-IV-DBr"; */
+"Z8d-IV-DBr.text" = "Auto Save Chat Media";
+
+/* Class = "UINavigationItem"; title = "Terms and Conditions"; ObjectID = "ZAO-Kc-xou"; */
+"ZAO-Kc-xou.title" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "45.50%"; ObjectID = "ZZO-TV-PHA"; */
+"ZZO-TV-PHA.text" = "45.50%";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "a2a-xU-djH"; */
+"a2a-xU-djH.normalTitle" = "Proceed";
+
+/* Class = "UILabel"; text = "Select An Avatar"; ObjectID = "aNh-h9-tCM"; */
+"aNh-h9-tCM.text" = "Select An Avatar";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "bI0-6b-At8"; */
+"bI0-6b-At8.text" = "100";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "bme-73-Nhp"; */
+"bme-73-Nhp.text" = "Clssic High Score";
+
+/* Class = "UILabel"; text = "Points"; ObjectID = "buZ-Ur-M38"; */
+"buZ-Ur-M38.text" = "Points";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bvH-es-hir"; */
+"bvH-es-hir.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "ccw-uR-Rlo"; */
+"ccw-uR-Rlo.title" = "About";
+
+/* Class = "UILabel"; text = "100000"; ObjectID = "cjA-R0-77k"; */
+"cjA-R0-77k.text" = "100000";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "cld-rW-pha"; */
+"cld-rW-pha.text" = "Score";
+
+/* Class = "UILabel"; text = "Log Out"; ObjectID = "coe-Q6-TQd"; */
+"coe-Q6-TQd.text" = "Log Out";
+
+/* Class = "UILabel"; text = "All time %"; ObjectID = "cud-Rv-Y4t"; */
+"cud-Rv-Y4t.text" = "All time %";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "dCr-rw-hTf"; */
+"dCr-rw-hTf.text" = "Score";
+
+/* Class = "UIButton"; normalTitle = "REGULAR"; ObjectID = "dSg-ra-mrs"; */
+"dSg-ra-mrs.normalTitle" = "REGULAR";
+
+/* Class = "UINavigationItem"; title = "Challenge Series"; ObjectID = "dUV-fW-bdC"; */
+"dUV-fW-bdC.title" = "Challenge Series";
+
+/* Class = "UILabel"; text = "Total Games Played"; ObjectID = "dVJ-Xg-yFf"; */
+"dVJ-Xg-yFf.text" = "Total Games Played";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dWc-Gl-fuh"; */
+"dWc-Gl-fuh.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "dYJ-ed-KWh"; */
+"dYJ-ed-KWh.text" = "Version 1.0";
+
+/* Class = "UILabel"; text = "About "; ObjectID = "di4-4U-0UV"; */
+"di4-4U-0UV.text" = "About ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "e6v-vn-j79"; */
+"e6v-vn-j79.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Game 1"; ObjectID = "eCm-se-Qks"; */
+"eCm-se-Qks.text" = "Game 1";
+
+/* Class = "UILabel"; text = "High Score"; ObjectID = "eH3-pY-x7i"; */
+"eH3-pY-x7i.text" = "High Score";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eUN-D0-VNO"; */
+"eUN-D0-VNO.text" = "Label";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "ev4-qV-Af3"; */
+"ev4-qV-Af3.text" = "Score";
+
+/* Class = "UITextView"; text = "\nStreaker is a simple, multi-player game developed for iOS and launched for play in 2017. The mobile game was developed by Codesworth released under license of Mensah Shadrach .\n\nGAMEPLAY:\nThe game is based on a system of online challenges : to start a game, the player must find an opponent to compete with in a challenge which may be chosen randomly by the player between online users or a chosen list of friends set by the player. In addition, there is a chat feature built into the game that allows opponents to exchange messages and media.\n\nHOW TO PLAY:\nStreaker is made of two modes of play: the regular mode and the classic mode. Your goal is to make as many correct guesses in a row (streaks). \nIn the regular mode you have 82 tries to make as many correct guesses and streaks as you can master.\nIn the Classic mode, you are on a timer to make as many correct guesses  and streaks as you can master under 24 seconds. The game ends when the player runs out of time. A game in each mode consists of opponents playing a best of seven games, The first player to win four games wins the challenge. When there is a tie in a single game , opponents go ahead to play overtime.\nIn the regular mode overtime has a limit of 22\nIn the classic mode overtime lasts for 10 seconds"; ObjectID = "fTH-F2-vtu"; */
+"fTH-F2-vtu.text" = "\nStreaker is a simple, multi-player game developed for iOS and launched for play in 2017. The mobile game was developed by Codesworth released under license of Mensah Shadrach .\n\nGAMEPLAY:\nThe game is based on a system of online challenges : to start a game, the player must find an opponent to compete with in a challenge which may be chosen randomly by the player between online users or a chosen list of friends set by the player. In addition, there is a chat feature built into the game that allows opponents to exchange messages and media.\n\nHOW TO PLAY:\nStreaker is made of two modes of play: the regular mode and the classic mode. Your goal is to make as many correct guesses in a row (streaks). \nIn the regular mode you have 82 tries to make as many correct guesses and streaks as you can master.\nIn the Classic mode, you are on a timer to make as many correct guesses  and streaks as you can master under 24 seconds. The game ends when the player runs out of time. A game in each mode consists of opponents playing a best of seven games, The first player to win four games wins the challenge. When there is a tie in a single game , opponents go ahead to play overtime.\nIn the regular mode overtime has a limit of 22\nIn the classic mode overtime lasts for 10 seconds";
+
+/* Class = "UILabel"; text = "Default"; ObjectID = "gYR-fJ-H2j"; */
+"gYR-fJ-H2j.text" = "Default";
+
+/* Class = "UILabel"; text = "22-56"; ObjectID = "h6D-hJ-VUK"; */
+"h6D-hJ-VUK.text" = "22-56";
+
+/* Class = "UILabel"; text = "WHY ADS"; ObjectID = "h9g-cC-QTD"; */
+"h9g-cC-QTD.text" = "WHY ADS";
+
+/* Class = "UILabel"; text = "My List"; ObjectID = "hOC-v0-zNb"; */
+"hOC-v0-zNb.text" = "My List";
+
+/* Class = "UIButton"; normalTitle = "Chats"; ObjectID = "iGA-3m-ht3"; */
+"iGA-3m-ht3.normalTitle" = "Chats";
+
+/* Class = "UILabel"; text = "Losses"; ObjectID = "jgJ-4q-8EN"; */
+"jgJ-4q-8EN.text" = "Losses";
+
+/* Class = "UILabel"; text = "45"; ObjectID = "kfT-ho-VCa"; */
+"kfT-ho-VCa.text" = "45";
+
+/* Class = "UIButton"; normalTitle = "CHALLENGE"; ObjectID = "lJ7-dj-miV"; */
+"lJ7-dj-miV.normalTitle" = "CHALLENGE";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "mha-oQ-nOy"; */
+"mha-oQ-nOy.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mvb-8r-dCu"; */
+"mvb-8r-dCu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n53-pw-zyZ"; */
+"n53-pw-zyZ.text" = "Label";
+
+/* Class = "UILabel"; text = "High Streak"; ObjectID = "nFB-YU-q3N"; */
+"nFB-YU-q3N.text" = "High Streak";
+
+/* Class = "UILabel"; text = "Loosing Streak"; ObjectID = "nWg-et-uwk"; */
+"nWg-et-uwk.text" = "Loosing Streak";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "oOp-Ia-FOx"; */
+"oOp-Ia-FOx.text" = "100%";
+
+/* Class = "UIButton"; normalTitle = "CHALLENGE"; ObjectID = "p5t-Mh-g2c"; */
+"p5t-Mh-g2c.normalTitle" = "CHALLENGE";
+
+/* Class = "UILabel"; text = "Total score"; ObjectID = "pqN-4b-yut"; */
+"pqN-4b-yut.text" = "Total score";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qFz-pI-TbT"; */
+"qFz-pI-TbT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "45"; ObjectID = "qZG-qj-UCW"; */
+"qZG-qj-UCW.normalTitle" = "45";
+
+/* Class = "UILabel"; text = "Marz"; ObjectID = "qsw-XL-Xwi"; */
+"qsw-XL-Xwi.text" = "Marz";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "r7l-MD-LB6"; */
+"r7l-MD-LB6.normalTitle" = "More";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "rCX-vZ-xhm"; */
+"rCX-vZ-xhm.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Series sweep bonus"; ObjectID = "rz6-af-d3Q"; */
+"rz6-af-d3Q.text" = "Series sweep bonus";
+
+/* Class = "UIButton"; normalTitle = "LEADERBOARD"; ObjectID = "sfN-57-i3s"; */
+"sfN-57-i3s.normalTitle" = "LEADERBOARD";
+
+/* Class = "UILabel"; text = "Tap to edit name and avatar"; ObjectID = "sjE-zc-MAe"; */
+"sjE-zc-MAe.text" = "Tap to edit name and avatar";
+
+/* Class = "UILabel"; text = "Game type"; ObjectID = "srI-by-69X"; */
+"srI-by-69X.text" = "Game type";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "tED-ix-dp1"; */
+"tED-ix-dp1.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "tXU-NU-5ld"; */
+"tXU-NU-5ld.text" = "Clssic High Score";
+
+/* Class = "UILabel"; text = "Highscore"; ObjectID = "uDt-Ik-Ecl"; */
+"uDt-Ik-Ecl.text" = "Highscore";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "uGD-59-wlh"; */
+"uGD-59-wlh.text" = "4";
+
+/* Class = "UILabel"; text = "Ads"; ObjectID = "uNl-uZ-4NN"; */
+"uNl-uZ-4NN.text" = "Ads";
+
+/* Class = "UITextField"; placeholder = "Enter Username"; ObjectID = "uUl-mT-mRx"; */
+"uUl-mT-mRx.placeholder" = "Enter Username";
+
+/* Class = "UILabel"; text = "SCORE:"; ObjectID = "ukd-xV-sao"; */
+"ukd-xV-sao.text" = "SCORE:";
+
+/* Class = "UILabel"; text = "Game 3"; ObjectID = "umd-CW-X06"; */
+"umd-CW-X06.text" = "Game 3";
+
+/* Class = "UILabel"; text = "Open Source Libraries"; ObjectID = "uwf-2v-aoa"; */
+"uwf-2v-aoa.text" = "Open Source Libraries";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "vNo-tM-M0h"; */
+"vNo-tM-M0h.text" = "Score";
+
+/* Class = "UILabel"; text = "Game 1"; ObjectID = "vfS-I2-gdb"; */
+"vfS-I2-gdb.text" = "Game 1";
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "wOL-7c-9dR"; */
+"wOL-7c-9dR.text" = "Player";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "wdx-WH-9T3"; */
+"wdx-WH-9T3.text" = "100%";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "wf9-7u-q8l"; */
+"wf9-7u-q8l.text" = "Delete Account";
+
+/* Class = "UILabel"; text = "%OSE"; ObjectID = "wwo-BI-swP"; */
+"wwo-BI-swP.text" = "%OSE";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "xDx-m1-9zd"; */
+"xDx-m1-9zd.text" = "Clssic High Score";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "xHl-Dn-mfI"; */
+"xHl-Dn-mfI.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "xYn-39-QsT"; */
+"xYn-39-QsT.placeholder" = "Enter Password";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "xZ3-Sy-oid"; */
+"xZ3-Sy-oid.text" = "4";
+
+/* Class = "UILabel"; text = "45"; ObjectID = "xdQ-iB-iMR"; */
+"xdQ-iB-iMR.text" = "45";
+
+/* Class = "UILabel"; text = "Clssic High Score"; ObjectID = "xdj-8a-jwu"; */
+"xdj-8a-jwu.text" = "Clssic High Score";
+
+/* Class = "UINavigationItem"; title = "Privacy Policy"; ObjectID = "xsY-bJ-XhI"; */
+"xsY-bJ-XhI.title" = "Privacy Policy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y55-Ff-pUz"; */
+"y55-Ff-pUz.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Play Again"; ObjectID = "yO3-ow-nwx"; */
+"yO3-ow-nwx.normalTitle" = "Play Again";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ybM-rb-gHs"; */
+"ybM-rb-gHs.text" = "0";
+
+/* Class = "UILabel"; text = "Game type"; ObjectID = "yvw-OP-gG9"; */
+"yvw-OP-gG9.text" = "Game type";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "z7s-VF-wGR"; */
+"z7s-VF-wGR.text" = "100";
+
+/* Class = "UILabel"; text = "STREAKER"; ObjectID = "zEr-OH-VEj"; */
+"zEr-OH-VEj.text" = "STREAKER";
+
+/* Class = "UILabel"; text = "longest Streak"; ObjectID = "zR6-fK-sgd"; */
+"zR6-fK-sgd.text" = "longest Streak";
+
+/* Class = "UILabel"; text = "Codesworth, 2017"; ObjectID = "zbZ-0Y-B1N"; */
+"zbZ-0Y-B1N.text" = "Codesworth, 2017";
