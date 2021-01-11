@@ -1,5 +1,6 @@
 # Streaker
 A git repo for the ios App Streaker- Odds and Streaks. Appstore link: https://itunes.apple.com/gh/app/streaker-odds-and-streaks/id1222312862?mt=8
+![Promo Image](https://github.com/codesworth/Streaker/blob/master/screenshots/524585D7-05C2-4663-9908-9A811D6D7493.png)
 
 How good are your odds, Can you make the right pick? How fast are you? Well you would need them in this game. Streaker is a challenging number game of swift and lucky guesses; how many right guesses can you make? EASY TO PLAY but no certainty assured! Your guess may be close each time, so you just keep guessing.
 Let’s see if you have what it takes to achieve the highest score and become CHAMPION of this game. You can play whenever you want and against whomever you want, dash as fast as you can. All it takes is all you’ve got!
@@ -14,7 +15,7 @@ In game chat feature allows you to chat or interact with your opponents, trash t
 The game has a leaderboard, where you can see how you stack up against other players in the world in all statistical categories. 
 Explore and challenge the highest on leaderboards, and any opponent worldwide.
 
-KEY FEATURES
+## KEY FEATURES
 -COMPETE: Submit your score on the leaderboard to see how you stack up against competition; view opponents profiles and match statistics
 - CHALLENGING: Gives everyone a chance to beat the game, choose your preferred mode and session.  However, being on top of the global leaderboard won’t be easy 
 
@@ -27,4 +28,12 @@ KEY FEATURES
 -Cool Avatars
 - Colorful User friendly interface
 -Option to retrieve your forgotten password, given you have the provided email address
+
+## Screenshots
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(5).png"> 
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(7).png"> 
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(6).png"> 
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Schedule-/blob/master/snapshots/1242x2208bb%20(8).png"> 
+
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Schedule-/blob/master/snapshots/1242x2208bb%20(9).png"> 
  
