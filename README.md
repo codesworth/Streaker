@@ -33,7 +33,7 @@ Explore and challenge the highest on leaderboards, and any opponent worldwide.
 <img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(5).png"> 
 <img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(7).png"> 
 <img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(6).png"> 
-<img align="left" width="200" height="356" src="https://github.com/codesworth/Schedule-/blob/master/snapshots/1242x2208bb%20(8).png"> 
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(8).png"> 
 
-<img align="left" width="200" height="356" src="https://github.com/codesworth/Schedule-/blob/master/snapshots/1242x2208bb%20(9).png"> 
+<img align="left" width="200" height="356" src="https://github.com/codesworth/Streaker/blob/master/screenshots/1242x2208bb%20(9).png"> 
  
